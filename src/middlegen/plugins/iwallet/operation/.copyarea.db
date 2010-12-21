@@ -1,9 +1,0 @@
-ClearCase CopyAreaDB|4
-vobs\tools\dalgen\08_Edition\src\main\java\middlegen\plugins\iwallet\operation
-2
-5
-12:IWalletUpdate.java|1|126b66db75d|750|dd0d305b|6e515119b66211dd85ff000e0c6392d7|0
-13:IWalletUnknown.java|1|126b66db6f0|4d7|1bc47d64|6d2150c5b66211dd85ff000e0c6392d7|0
-12:IWalletInsert.java|1|126b66db73e|a49|9c6a4347|6db150fdb66211dd85ff000e0c6392d7|0
-12:IWalletDelete.java|1|126b66db6d0|73e|28a32ba2|6d2150a9b66211dd85ff000e0c6392d7|0
-12:IWalletSelect.java|1|126c02e8ccd|31a3|3fda0140|ee931fb8178511df8a94001ec9b87f31|0

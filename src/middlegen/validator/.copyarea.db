@@ -1,8 +1,0 @@
-ClearCase CopyAreaDB|4
-vobs\tools\dalgen\08_Edition\src\main\java\middlegen\validator
-2
-4
-e:Validator.java|1|126b66dba5b|2d5|34cc29ed|68a9b7d4115a11df9d7d001ec9b87f31|0
-4:impl|2|0|0|0|6349b7d4115a11df9d6d001ec9b87f31|0
-11:ErrorMessage.java|1|126b66dba3b|1d7|98d981a|6649b7c1115a11df9d75001ec9b87f31|0
-15:ValidatorAdapter.java|1|126b66dba89|23a|def2bf9e|69d9b7d8115a11df9d81001ec9b87f31|0
