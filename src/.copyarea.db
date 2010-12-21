@@ -1,0 +1,8 @@
+ClearCase CopyAreaDB|4
+vobs\tools\dalgen\08_Edition\src\main\resources
+2
+4
+9:templates|2|0|0|0|50814131b66211dd85ff000e0c6392d7|0
+14:middlegen-plugin.xml|1|126b66da27d|12f|88bd6297|571144a1b66211dd85ff000e0c6392d7|0
+10:log4j.properties|1|126b66da2ac|a1d|f5974e|571144bdb66211dd85ff000e0c6392d7|0
+9:middlegen|2|0|0|0|571144d9b66211dd85ff000e0c6392d7|0

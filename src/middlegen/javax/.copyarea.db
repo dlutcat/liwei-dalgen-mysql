@@ -1,0 +1,8 @@
+ClearCase CopyAreaDB|4
+vobs\tools\dalgen\08_Edition\src\main\java\middlegen\javax
+2
+4
+e:JavaTable.java|1|126b66dad6a|4643|9d3805f8|59714645b66211dd85ff000e0c6392d7|0
+f:JavaColumn.java|1|126b66dadc8|192b|b442ca74|5a014699b66211dd85ff000e0c6392d7|0
+d:Sql2Java.java|1|126b66dad89|607c|ce6f5e65|5a014661b66211dd85ff000e0c6392d7|0
+f:JavaPlugin.java|1|126b66dada9|12af|69b9bd6c|5a01467db66211dd85ff000e0c6392d7|0

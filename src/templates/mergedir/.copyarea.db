@@ -1,0 +1,11 @@
+ClearCase CopyAreaDB|4
+vobs\tools\dalgen\08_Edition\src\main\resources\templates\mergedir
+2
+7
+13:description-java.vm|1|126b66da4df|315|d0be0425|54b1436db66211dd85ff000e0c6392d7|0
+9:operation|2|0|0|0|51b141f5b66211dd85ff000e0c6392d7|0
+12:description-xml.vm|1|126b66da490|506|c265453e|51b141bdb66211dd85ff000e0c6392d7|0
+b:dao-name.vm|1|126b66da471|de|a9c83e05|511141a1b66211dd85ff000e0c6392d7|0
+12:seq-description.vm|1|126b66da4fe|10c|b3ac50c9|54b14389b66211dd85ff000e0c6392d7|0
+c:do-fields.vm|1|126b66da4b0|486|671e7656|51b141d9b66211dd85ff000e0c6392d7|0
+c:copyright.vm|1|126b66da52d|45|ad4613cf|554143a5b66211dd85ff000e0c6392d7|0

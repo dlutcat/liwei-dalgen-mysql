@@ -1,0 +1,12 @@
+ClearCase CopyAreaDB|4
+vobs\tools\dalgen\08_Edition\src\main\java\middlegen\plugins\iwallet\config
+2
+8
+15:IWalletSeqConfig.java|1|126b66db634|2b8|a002c93a|6b514f91b66211dd85ff000e0c6392d7|0
+1b:IWalletResultMapConfig.java|1|126b66db5f6|6d4|6828018d|6ab14f59b66211dd85ff000e0c6392d7|0
+18:IWalletColumnConfig.java|1|126b66db5c7|59a|fe9d9df4|6ab14f3db66211dd85ff000e0c6392d7|0
+1b:IWalletOperationConfig.java|1|126c02bfdde|1bdb|96a21403|abc31dfa178511df8a8a001ec9b87f31|0
+17:IWalletTableConfig.java|1|126b66db692|13a1|8599d48f|6bf14fe5b66211dd85ff000e0c6392d7|0
+1b:IWalletConfigException.java|1|126b66db615|3e9|ff3c3028|6ab14f75b66211dd85ff000e0c6392d7|0
+12:IWalletConfig.java|1|126c0321c32|222d|39a03025|8a631d18178511df8a86001ec9b87f31|0
+17:IWalletParamConfig.java|1|126b66db5a7|4f4|6d1e7262|6a214f21b66211dd85ff000e0c6392d7|0
