@@ -1,0 +1,17 @@
+ClearCase CopyAreaDB|4
+vobs\tools\dalgen\08_Edition\src\main\java\middlegen\predicates\column
+2
+d
+13:MandatoryBasic.java|1|126b66db932|973|135eece8|714152d9b66211dd85ff000e0c6392d7|0
+a:Basic.java|1|126b66db8b5|939|e720d906|70115269b66211dd85ff000e0c6392d7|0
+14:MandatoryNotKey.java|1|126b66db912|96d|85b1eaef|70b152bdb66211dd85ff000e0c6392d7|0
+19:PrimaryNotForeignKey.java|1|126b66db9ce|a19|278f2517|72715365b66211dd85ff000e0c6392d7|0
+c:SqlType.java|1|126b66db951|8ce|5379b956|714152f5b66211dd85ff000e0c6392d7|0
+e:Mandatory.java|1|126b66db98f|984|fd13f1ae|71e1532db66211dd85ff000e0c6392d7|0
+14:ColumnPredicate.java|1|126b66db970|996|fefaffb7|71e15311b66211dd85ff000e0c6392d7|0
+c:Indexed.java|1|126b66db895|961|fd94e6f5|7011524db66211dd85ff000e0c6392d7|0
+b:NotKey.java|1|126b66db9af|9a8|31f4f9c5|71e15349b66211dd85ff000e0c6392d7|0
+1b:ColumnPredicateFactory.java|1|126b66db8f3|908|f863d29b|70b152a1b66211dd85ff000e0c6392d7|0
+f:PrimaryKey.java|1|126b66db867|982|3c8df28f|70115231b66211dd85ff000e0c6392d7|0
+c:package.html|1|126b66db8d4|3f|dd2316fc|70b15285b66211dd85ff000e0c6392d7|0
+f:ForeignKey.java|1|126b66db9ed|980|2ba7f1ef|72715381b66211dd85ff000e0c6392d7|0
