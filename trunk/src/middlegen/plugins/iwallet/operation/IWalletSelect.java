@@ -247,7 +247,10 @@ public class IWalletSelect extends IWalletOperation {
     public String getEndRowName() {
         return "endRow";
     }
-
+    public String getItemsPerPage() {
+        return "itemsPerPage";
+    }
+    
     /**
      * @return
      */
@@ -255,15 +258,13 @@ public class IWalletSelect extends IWalletOperation {
         StringBuffer pagingSql = new StringBuffer();
 
         if (isHasSqlmap()) {
-        	pagingSql.append("select /*" + getMappedStatementId(true) + "*/ * from (").append(
-                "select T1.*, rownum linenum from (").append(getMappedStatementSqlNoAnnotation()).append(
-                ") T1 where rownum &lt;= #").append(getEndRowName()).append("#").append(
-                ") T2 where linenum &gt;= #").append(getStartRowName()).append("#");
+        	pagingSql.append("select /*" + getMappedStatementId(true) + "*/ * from  ").append(getMappedStatementSqlNoAnnotation()).append(
+                " limit #").append(getStartRowName()).append("#").append(
+                " , #").append(getItemsPerPage()).append("#");
         } else {
-        	pagingSql.append("select /*" + getMappedStatementId(true) + "*/ * from (").append(
-                "select T1.*, rownum linenum from (").append(getMappedStatementSqlNoAnnotation()).append(
-                ") T1 where rownum <= #").append(getEndRowName()).append("#").append(
-                ") T2 where linenum >= #").append(getStartRowName()).append("#");
+        	pagingSql.append("select /*" + getMappedStatementId(true) + "*/ * from  ").append(getMappedStatementSqlNoAnnotation()).append(
+            " limit #").append(getStartRowName()).append("#").append(
+            " , #").append(getItemsPerPage()).append("#");
         }
 
         return pagingSql.toString();
