@@ -1,0 +1,16 @@
+ClearCase CopyAreaDB|4
+vobs\tools\dalgen\08_Edition\src\main\java\middlegen\predicate
+2
+c
+17:PredicateException.java|1|126b66dae64|82e|d7789c2|5e3148adb66211dd85ff000e0c6392d7|0
+a:False.java|1|126b66dae45|867|361b9a2f|5e314891b66211dd85ff000e0c6392d7|0
+1b:SimplePredicateFactory.java|1|126b66daf2f|f0c|dfdab85c|5f614955b66211dd85ff000e0c6392d7|0
+9:True.java|1|126b66daf00|864|83ef994e|5f614939b66211dd85ff000e0c6392d7|0
+7:Or.java|1|126b66daee1|9c7|df48091e|5ed1491db66211dd85ff000e0c6392d7|0
+3:xml|2|0|0|0|600149a9b66211dd85ff000e0c6392d7|0
+18:AttributedPredicate.java|1|126b66daea3|b70|2c7d8dcb|5ed148e5b66211dd85ff000e0c6392d7|0
+15:PredicateFactory.java|1|126b66dae83|8f1|c0fdce7c|5e3148c9b66211dd85ff000e0c6392d7|0
+3:ant|2|0|0|0|5f614971b66211dd85ff000e0c6392d7|0
+8:Not.java|1|126b66daf8d|b09|bb707172|609149e1b66211dd85ff000e0c6392d7|0
+17:CompositePredicate.java|1|126b66dae26|ab6|ca9f54be|5da14875b66211dd85ff000e0c6392d7|0
+8:And.java|1|126b66daec2|9c9|ee140991|5ed14901b66211dd85ff000e0c6392d7|0

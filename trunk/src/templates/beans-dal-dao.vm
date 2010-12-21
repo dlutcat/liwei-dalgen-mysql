@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="GB2312"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN//EN" "http://www.springframework.org/dtd/spring-beans.dtd">
+<beans default-autowire="byName">
+    <!-- ======================================================================== -->
+    <!--  DAO定义。                                                               -->
+    <!-- ======================================================================== -->
+#foreach ($table in $plugin.sortedTables)
+#set ($parent = "baseSqlMapClientDAO")
+#if (${table.isAutoSwitchDataSrc})
+#set ($parent = "autoSwitchDataSrcBaseSqlMapClientDAO")
+#end
+    <bean id="${table.beanName}DAO" class="${table.package}.ibatis.Ibatis${table.baseClassName}DAO" parent="$parent"/>
+#end
+    <bean id="${plugin.seqDAOBeanName}" class="${plugin.qualifiedSeqIbatisClassName}" parent="baseSqlMapClientDAO"/>
+</beans>
