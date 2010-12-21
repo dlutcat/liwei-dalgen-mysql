@@ -342,7 +342,7 @@ public class IWalletSelect extends IWalletOperation {
             String operation = StringUtil.substring(orgSql, 0, startOperation + 6);
             String afterOperation = StringUtil.substring(orgSql, startOperation + 7, orgSql
                 .length());
-            orgSql = operation + idAnnotation + afterOperation;
+            orgSql =idAnnotation + operation + afterOperation;
         }
         return orgSql;
     }
