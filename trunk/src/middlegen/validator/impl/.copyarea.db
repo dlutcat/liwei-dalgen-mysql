@@ -1,6 +1,0 @@
-ClearCase CopyAreaDB|4
-vobs\tools\dalgen\08_Edition\src\main\java\middlegen\validator\impl
-2
-2
-17:DaoConfigValidator.java|1|126b66dbab8|1138|8e6a8e2|6479b808115a11df9d6d001ec9b87f31|0
-1a:SqlMapConfigValidator.java|1|126bbc3aff4|11d3|6aa1f640|c94e9c7216d911df9693001ec9b87f31|0
